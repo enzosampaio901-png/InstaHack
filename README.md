@@ -8,7 +8,7 @@
 ighack is a bash based script which is officially made to test password strength of instagram account from termux with bruteforce attack and dictionary attack and This tool works on both rooted Android device and Non-rooted Android device.
 
 [![Build Status](https://img.shields.io/github/stars/dark-player/ighack.svg)](https://github.com/dark-player/InstaHack)
-[![Build Status](https://img.shields.io/github/forks/dark-player/ighack.svg)](https://github.com/dark-player/InstaHack)
+[![Build Status](https://img.shields.io/github/forks/dark-player/ighacs.enzx.svg)](https://github.com/dark-player/InstaHack)
 [![License: MIT](https://img.shields.io/github/license/dark-player/ighack.svg)](https://github.com/dark-player/InstaHack)
 [![Rawsec's CyberSecurity Inventory]
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
